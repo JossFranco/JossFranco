@@ -50,7 +50,7 @@ You'll find plenty of them here, enjoy your stay!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/joseline-franco-259052239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JossFranco" height="30" width="40" /></a>
-	 <a href="mailto:jossfranco70@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+<a href="mailto:jossfranco70@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
 
 
 ## Some of my stats :bar_chart: :
