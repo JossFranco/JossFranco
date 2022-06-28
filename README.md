@@ -5,14 +5,7 @@
 
 
 <!--
-- 🔭 I am currently working on the Burguer Queen app
-- 🌱 I'm currently learning React and Bootstrap
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 <h2 align="center">Hi everyone <img src="https://c.tenor.com/edGw8WiSFD4AAAAi/over-here-get-greetings.gif" width="55px" heigth="55px"> </h2>
 
 <a href="https://www.instagram.com/josselfranco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jossfranco" height="30" width="40" /></a>
@@ -64,13 +57,14 @@ You'll find plenty of them here, enjoy your stay!</p>
 ## Some of my stats :bar_chart: :
 	
 <p align = "center"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossFranco&layout=compact)](https://github.com/JossFranco/github-readme-stats)
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JossFrancohow_icons=true&theme=radical&include_all_commits=true" title="stats" "> 
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
-  <img  src="https://github-readme-stats.vercel.app/api?username=jossfranco&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
- 
-  <img  src= "https://github-readme-streak-stats.herokuapp.com?user=katerinT&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&stroke=2EDD36&ring=9ACD32&currStreakNum=FFA500&currStreakLabel=72DD72&sideLabels=72DD72&dates=FFFF00&sideNums=FFA500&fire=FFD700&border=982FB9" title="streak stats">
-  
+
+  <img  src="https://github-readme-stats.vercel.app/api?username=katerinT&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
    <img  src= "https://github.com/katerinT/katerinT/blob/output/github-contribution-grid-snake.svg" title =snake>
 											   
 </p>
