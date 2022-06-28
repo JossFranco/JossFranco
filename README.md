@@ -64,9 +64,6 @@ You'll find plenty of them here, enjoy your stay!</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 	
 
-  <img  src="https://github-readme-stats.vercel.app/api?username=katerinT&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
-   <img  src= "https://github.com/katerinT/katerinT/blob/output/github-contribution-grid-snake.svg" title =snake>
-											   
 </p>
 
 
