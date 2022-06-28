@@ -64,8 +64,8 @@ You'll find plenty of them here, enjoy your stay!</p>
 ## Some of my stats :bar_chart: :
 	
 <p align = "center"> 
-[![JossFranco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JossFranco)](https://github.com/JossFranco/github-readme-stats)
-	</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossFranco&layout=compact)](https://github.com/JossFranco/github-readme-stats)
+</p>
 	
   <img  src="https://github-readme-stats.vercel.app/api?username=jossfranco&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
  
