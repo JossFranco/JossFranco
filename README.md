@@ -45,6 +45,14 @@ You'll find plenty of them here, enjoy your stay!</p>
 <a href="https://www.linkedin.com/in/joseline-franco-259052239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="JossFranco" height="30" width="40" /></a>
 
 
+## Some of my stats :bar_chart: :
+
+<p align = "center"> 
+  <img  src="https://github-readme-stats.vercel.app/api?username=katerinT&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katerinT" width ="285"/><br><br>
+  <img  src= "https://github-readme-streak-stats.herokuapp.com?user=katerinT&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&stroke=2EDD36&ring=9ACD32&currStreakNum=FFA500&currStreakLabel=72DD72&sideLabels=72DD72&dates=FFFF00&sideNums=FFA500&fire=FFD700&border=982FB9" title="streak stats">
+   <img  src= "https://github.com/katerinT/katerinT/blob/output/github-contribution-grid-snake.svg" title =snake>
+</p>
                                                            
 
 
