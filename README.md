@@ -10,5 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![JossFranco GitHub stats](https://github-readme-stats.vercel.app/api?username=JossFranco)](https://github.com/JossFranco/github-readme-stats)
+
+
+
+![JossFranco GitHub stats](https://github-readme-stats.vercel.app/api?username=JossFranco&show_icons=true&theme=radical)
 
