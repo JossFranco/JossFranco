@@ -56,10 +56,17 @@ You'll find plenty of them here, enjoy your stay!</p>
 <p align="left">
  <a href="https://www.linkedin.com/in/joseline-franco-259052239/"target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="b" height="40" width="40" /></a>
  <a href="mailto:jossfranco70@gmail.com" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="b" height="40" width="40" /></a>
+<a href="https://app.slack.com/client/T0NNB6T0R/D030CGKE01F/rimeto_profile/U02VDU1C9EF">
+ <img src="https://img.icons8.com/color/48/000000/slack-new.png" width='40' height='40' alt='slack'/>
+ </a>
+
 	
 ## Some of my stats :bar_chart: :
 	
 <p align = "center"> 
+[![JossFranco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JossFranco)](https://github.com/JossFranco/github-readme-stats)
+	
+	
   <img  src="https://github-readme-stats.vercel.app/api?username=jossfranco&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
  
   <img  src= "https://github-readme-streak-stats.herokuapp.com?user=katerinT&theme=github-dark&date_format=j%2Fn%5B%2FY%5D&stroke=2EDD36&ring=9ACD32&currStreakNum=FFA500&currStreakLabel=72DD72&sideLabels=72DD72&dates=FFFF00&sideNums=FFA500&fire=FFD700&border=982FB9" title="streak stats">
