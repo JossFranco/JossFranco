@@ -57,9 +57,6 @@ You'll find plenty of them here, enjoy your stay!</p>
 ## Some of my stats :bar_chart: :
 	
 <p align = "center"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JossFrancohow_icons=true&theme=radical&include_all_commits=true" title="stats" "> 
-
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossFranco&layout=compact)](https://github.com/JossFranco/github-readme-stats)
 	
