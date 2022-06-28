@@ -65,7 +65,7 @@ You'll find plenty of them here, enjoy your stay!</p>
 	
 <p align = "center"> 
 [![JossFranco wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JossFranco)](https://github.com/JossFranco/github-readme-stats)
-	
+	</p>
 	
   <img  src="https://github-readme-stats.vercel.app/api?username=jossfranco&show_icons=true&theme=radical&include_all_commits=true" title="stats" ">  
  
