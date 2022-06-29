@@ -60,7 +60,7 @@ You'll find plenty of them here, enjoy your stay!</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JossFranco&layout=compact)](https://github.com/JossFranco/github-readme-stats)
 	
-
+![JossFranco GitHub stats](https://github-readme-stats.vercel.app/api?username=JossFranco&show_icons=true)
 </p>
 
 
