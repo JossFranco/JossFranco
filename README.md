@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E13EF7D1&center=falso&vCenter=falso&lines=Hi%F0%9F%91%8B%2C+I'm+Joseline+Franco;%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBWelcome+to+my+repository)](https://git.io/typing-svg)
 </h1>
 
-<p align="center">I'm a junior frontend developer who loves understanding how things work while experimenting on new projects.<br />
+<p align="center">I'm a frontend developer who loves understanding how things work while experimenting on new projects.<br />
 You'll find plenty of them here, enjoy your stay!</p>
 
 <img src='https://github.com/JossFranco/JossFranco/blob/main/Perfir-Joss.png' alt='portada' align='center'/>
